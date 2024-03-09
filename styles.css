@@ -1,0 +1,42 @@
+.home {
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home h1 {
+    font-size: 64px;
+    background-color: darkred;
+    color: pink;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+.home ul {
+    font-size: 30px;
+    text-align: center;
+}
+
+li a {
+    text-decoration: none;
+}
+
+.res h1 {
+    font-size: 64px;
+    text-align: center;
+    background-color: darkred;
+    color: pink;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+.res h2 {
+    text-align: center;
+    color: darkred;
+}
+
+.res img {
+    border: solid 10px darkred;
+}
